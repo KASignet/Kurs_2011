@@ -1,1 +1,2 @@
 Der Kurs testet heute Git
+Das Hochladen der ersten Datein hat geklappt!
